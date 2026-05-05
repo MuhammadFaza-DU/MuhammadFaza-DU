@@ -110,13 +110,13 @@ $ status
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadFaza-DU&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=888888&text_color=aaaaaa&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadFaza-DU&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=888888&text_color=aaaaaa&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaza-DU&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadFaza-DU&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadFaza-DU&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=0D1117&ring=888888&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=MuhammadFaza-DU&theme=github-dark-blue&hide_border=true&background=0D1117&ring=888888&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555" alt="GitHub Streak" />
 
 <br/><br/>
 
