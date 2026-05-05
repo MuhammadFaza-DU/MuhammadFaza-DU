@@ -63,7 +63,7 @@ $ my tools
   └── Multisim           — Circuit design & electronics simulation
 
 $ my principle
-  "1.0001 is better than 1"
+  "always try to be better"
 
 $ status
   > Currently building intelligent embedded systems...
