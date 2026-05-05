@@ -43,26 +43,26 @@
 │                    MF SYSTEM — PROFILE.sh                    │
 └──────────────────────────────────────────────────────────────┘
 
-$ whoami
+$ who am i?
   Muhammad Faza (MF)
 
-$ cat role.txt
+$ my role
   ├── Computer Engineer
   ├── AI Engineer
   └── Embedded Intelligence Builder
 
-$ cat focus.txt
+$ my focuss
   ├── Embedded AI        — Intelligence inside the hardware
   ├── Smart IoT          — Connected systems, real-world impact
   └── Data Intelligence  — Turning raw data into insight
 
-$ cat tools.txt
+$ my tools
   ├── Arduino            — Hardware prototyping & microcontrollers
   ├── VS Code            — Primary development environment
   ├── MATLAB             — Signal processing & simulation
   └── Multisim           — Circuit design & electronics simulation
 
-$ echo $MOTTO
+$ my principle
   "1.0001 is better than 1"
 
 $ status
