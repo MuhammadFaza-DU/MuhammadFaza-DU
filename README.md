@@ -4,15 +4,15 @@
 <!--                     ANIMATED HEADER                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=6000&color=AAAAAA&center=true&vCenter=true&width=500&lines=INITIALIZING+SYSTEM...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=8000&color=AAAAAA&center=true&vCenter=true&width=500&lines=INITIALIZING+SYSTEM...;)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=4000&color=AAAAAA&center=true&vCenter=true&width=500&lines=ALL+SYSTEMS+OPERATIONAL.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=6000&color=AAAAAA&center=true&vCenter=true&width=500&lines=ALL+SYSTEMS+OPERATIONAL.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=6000&pause=2000&color=AAAAAA&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+SITE;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=6000&pause=4000&color=AAAAAA&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+SITE;)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=6000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Muhammad+Faza" alt="Muhammad Faza" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=8000&pause=2000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Muhammad+Faza" alt="Muhammad Faza" />
 </h1>
 
 <p>
