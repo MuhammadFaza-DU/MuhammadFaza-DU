@@ -147,7 +147,7 @@ $ status
 
 ```
   ┌─────────────────────────────────────────────────┐
-  │  Explore my pinned repositories below ↓          │
+  │  Explore my pinned repositories below ↓         │
   │  Each project represents a chapter of my work.  │
   └─────────────────────────────────────────────────┘
 ```
