@@ -26,7 +26,7 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+Intelligence+Builder" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+Intelligence+Builder+%7C+Web+Developer" alt="Roles" />
 </p>
 
 <br/>
