@@ -44,7 +44,7 @@
 
 ```bash
 ┌──────────────────────────────────────────────────────────────┐
-│                    MF SYSTEM — PROFILE.sh                    │
+│                      MF SYSTEM PROFILE                       │
 └──────────────────────────────────────────────────────────────┘
 
 $ who am i?
@@ -53,24 +53,28 @@ $ who am i?
 $ my role
   ├── Computer Engineer
   ├── AI Engineer
-  └── Embedded Intelligence Builder
+  ├── Embedded Intelligence Builder
+  └── Web Developer
 
 $ my focuss
-  ├── Embedded AI        — Intelligence inside the hardware
-  ├── Smart IoT          — Connected systems, real-world impact
-  └── Data Intelligence  — Turning raw data into insight
+  ├── Embedded AI            — Intelligence inside the hardware
+  ├── Smart IoT              — Connected systems, real-world impact
+  ├── Full-Stack Integration — Building end-to-end applications
+  ├── Intelligent Web Apps   — Deploying AI on web.
+  └── Data Intelligence      — Turning raw data into insight
 
 $ my tools
-  ├── Arduino            — Hardware prototyping & microcontrollers
-  ├── VS Code            — Primary development environment
-  ├── MATLAB             — Signal processing & simulation
-  └── Multisim           — Circuit design & electronics simulation
+  ├── Arduino              — Hardware prototyping & microcontrollers
+  ├── VS Code              — Primary development environment
+  ├── MATLAB               — Signal processing & simulation
+  ├── Multisim             — Circuit design & electronics simulation
+  └── Antigravity          — Defying gravity with end-to-end web deployment
 
 $ my principle
   "always try to be better"
 
 $ status
-  > Currently building intelligent embedded systems...
+  > Currently building Website for a portofolio
   > Open to collaboration & new ideas
 ```
 
@@ -98,6 +102,10 @@ $ status
 <a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" height="48" /></a>
+&nbsp;&nbsp;
+
 
 <br/><br/>
 
