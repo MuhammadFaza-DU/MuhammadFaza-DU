@@ -67,9 +67,8 @@ $ my tools
   ├── Arduino              — Hardware prototyping & microcontrollers
   ├── VS Code              — Primary development environment
   ├── MATLAB               — Signal processing & simulation
-  ├── Multisim             — Circuit design & electronics simulation
-  └── Antigravity          — Defying gravity with end-to-end web deployment
-
+  └── Multisim             — Circuit design & electronics simulation
+  
 $ my principle
   "always try to be better"
 
