@@ -66,12 +66,13 @@ $ my side skill
   ├── Database Management            
   ├── HTML5
   ├── CSS3
+  ├── Tailwind CSS
   ├── Java Script
   ├── Type Script
-  ├── React
+  ├── React.js
   ├── Next.js
-  ├── Node.js
-  └── Tailwind CSS
+  ├── Vite.js
+  └── Node.js
 
 $ my tools
   ├── Arduino             
@@ -110,6 +111,8 @@ $ status
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="48" /></a>
 &nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="C" height="48" /></a>
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="C" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="C" height="48" /></a>
@@ -118,9 +121,9 @@ $ status
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="C" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="C" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="C" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="C" height="48" /></a>
 &nbsp;&nbsp;
 
 <br/>
