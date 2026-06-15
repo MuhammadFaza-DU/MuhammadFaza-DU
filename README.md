@@ -155,13 +155,17 @@ $ status
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadFaza-DU&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=888888&text_color=aaaaaa&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadFaza-DU&show_icons=true&theme=github_dark&hide_border=false&title_color=ffffff&icon_color=888888&text_color=aaaaaa&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=MuhammadFaza-DU&theme=github-dark-blue&hide_border=true&background=0D1117&ring=888888&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadFaza-DU&theme=github_dark&hide_border=false&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" width = "395" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadFaza-DU&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6" style="width: 55%;" alt="Top Languages" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=MuhammadFaza-DU&theme=github-dark-blue&hide_border=false&background=0D1117&ring=888888&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555" width= 80% alt="GitHub Streak" />
+
+<br/>
 
 <br/>
 
