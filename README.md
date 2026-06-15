@@ -8,11 +8,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=6000&color=AAAAAA&center=true&vCenter=true&width=500&lines=ALL+SYSTEMS+OPERATIONAL.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=6000&color=AAAAAA&center=true&vCenter=true&width=500&lines=ALL+SYSTEMS+OPERATIONAL...)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=6000&pause=4000&color=AAAAAA&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+SITE;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=6000&pause=4000&color=AAAAAA&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+SITE...;)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,9 +28,7 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+Intelligence+Builder" alt="Roles" />
 </p>
-
 <br/>
-
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -142,7 +140,7 @@ $ status
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="My SQL" height="48" /></a>
 &nbsp;&nbsp;
 
-<br/><br/>
+<br/>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -205,7 +203,7 @@ $ status
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&duration=4000&pause=99999&color=555555&center=true&vCenter=true&width=700&lines=%221.0001+is+better+than+1%22+%E2%80%94+Muhammad+Faza" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
