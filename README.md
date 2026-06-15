@@ -57,8 +57,8 @@ $ my side role
   └── Web Developer
 
 $ my main skill
-  ├── C++           
-  ├── Python              
+  ├── Python           
+  ├── C++              
   ├── C               
   └── Electronic Assembly
 
