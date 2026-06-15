@@ -26,7 +26,7 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+Intelligence+Builder+%7C+Web+Developer" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+Intelligence+Builder" alt="Roles" />
 </p>
 
 <br/>
@@ -50,24 +50,36 @@
 $ who am i?
   Muhammad Faza (MF)
 
-$ my role
+$ my main role
   ├── Computer Engineer
   ├── AI Engineer
-  ├── Embedded Intelligence Builder
+  └── Embedded Intelligence Builder
+
+$ my side role
   └── Web Developer
 
-$ my focuss
-  ├── Embedded AI            — Intelligence inside the hardware
-  ├── Smart IoT              — Connected systems, real-world impact
-  ├── Full-Stack Integration — Building end-to-end applications
-  ├── Intelligent Web Apps   — Deploying AI on web.
-  └── Data Intelligence      — Turning raw data into insight
+$ my main skill
+  ├── C++           
+  ├── Python              
+  ├── C               
+  └── Electronic Assembly
+
+$ my side skill       
+  ├── Database Management            
+  ├── HTML5
+  ├── CSS3
+  ├── Java Script
+  ├── Type Script
+  ├── React
+  ├── Next.js
+  ├── Node.js
+  └── Tailwind CSS
 
 $ my tools
-  ├── Arduino              — Hardware prototyping & microcontrollers
-  ├── VS Code              — Primary development environment
-  ├── MATLAB               — Signal processing & simulation
-  └── Multisim             — Circuit design & electronics simulation
+  ├── Arduino             
+  ├── VS Code              
+  ├── MATLAB               
+  └── My SQL
   
 $ my principle
   "always try to be better"
@@ -86,10 +98,6 @@ $ status
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     SKILLS SECTION                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 ### `{ SKILLS }`
 
 <br/>
@@ -98,13 +106,41 @@ $ status
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="C" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="C" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="C" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="C" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="C" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="C" height="48" /></a>
+&nbsp;&nbsp;
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+### `{ TOOLS }`
+
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="48" /></a>
 &nbsp;&nbsp;
-
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="My SQL" height="48" /></a>
+&nbsp;&nbsp;
 
 <br/><br/>
 
@@ -123,13 +159,13 @@ $ status
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadFaza-DU&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=888888&text_color=aaaaaa&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadFaza-DU&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6" height="165" alt="Top Languages" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=MuhammadFaza-DU&theme=github-dark-blue&hide_border=true&background=0D1117&ring=888888&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555" height="165" alt="GitHub Streak" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=MuhammadFaza-DU&theme=github-dark-blue&hide_border=true&background=0D1117&ring=888888&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadFaza-DU&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6" style="width: 55%;" alt="Top Languages" />
 
-<br/><br/>
+<br/>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
