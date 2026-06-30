@@ -69,9 +69,9 @@ $ my side skill
   ├── Tailwind CSS
   ├── Java Script
   ├── Type Script
-  ├── React.js
-  ├── Next.js
-  ├── Vite.js
+  ├── React
+  ├── Next
+  ├── Vite
   └── Node.js
 
 $ my tools
