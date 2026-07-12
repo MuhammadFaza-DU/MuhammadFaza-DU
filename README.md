@@ -26,7 +26,8 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+AI+%7C+Web+Developer+%7C+App+Developer+%7C+End-to-End+Builder" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+AI" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+App+Developer+%7C+End-to-End+Builder" alt="Roles" />
 </p>
 
 <br/>
@@ -66,23 +67,21 @@ $ summary
   products. I'm always drawn to new challenges and innovations
   that push the boundaries of technology.
 
-$ my role  (hardware)
+$ my role
   ├── Computer Engineer
   ├── AI Engineer
-  └── Embedded AI
-
-$ my role  (software)
+  ├── Embedded AI
   ├── Web Developer
   ├── App Developer
   └── End-to-End Builder
 
-$ my skill  (hardware)
+$ my hardware skills
   ├── Python
   ├── C++
   ├── C
   └── Electronic Assembly
 
-$ my skill  (software)
+$ my software skills
   ├── JavaScript
   ├── TypeScript
   ├── Dart
@@ -131,19 +130,11 @@ $ status
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="48" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="48" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" height="48" /></a>
-&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" height="48" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="48" /></a>
 &nbsp;&nbsp;
@@ -154,6 +145,14 @@ $ status
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="48" /></a>
 &nbsp;&nbsp;
@@ -166,11 +165,11 @@ $ status
 
 <br/>
 
+<a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="48" /></a>
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" height="48" /></a>
-&nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="48" /></a>
 &nbsp;&nbsp;
