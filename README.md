@@ -107,7 +107,7 @@ $ my principle
   "1.0001 is better than 1"
 
 $ status
-  > Available for hybrid work
+  > Available for work
   > Open to collaboration & new ideas
 ```
 
