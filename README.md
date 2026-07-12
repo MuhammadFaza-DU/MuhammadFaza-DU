@@ -26,9 +26,19 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+Intelligence+Builder" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+AI+%7C+Web+Developer+%7C+App+Developer+%7C+End-to-End+Builder" alt="Roles" />
 </p>
+
 <br/>
+
+<img src="https://img.shields.io/badge/ENV-Hybrid-111111?style=for-the-badge&labelColor=111111&color=333333" alt="Env: Hybrid" />
+&nbsp;
+<img src="https://img.shields.io/badge/EXPERTISE-Hardware%20%26%20Software-111111?style=for-the-badge&labelColor=111111&color=333333" alt="Expertise: Hardware & Software" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Available-111111?style=for-the-badge&labelColor=111111&color=00c896" alt="Status: Available" />
+
+<br/><br/>
+
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -40,7 +50,7 @@
 
 </div>
 
-```bash
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                      MF SYSTEM PROFILE                       │
 └──────────────────────────────────────────────────────────────┘
@@ -48,43 +58,57 @@
 $ who am i?
   Muhammad Faza (MF)
 
-$ my main role
+$ summary
+  I build technology that connects AI, software, and embedded
+  systems into real-world solutions. With experience in AI
+  engineering, web development, and app development, I enjoy
+  transforming ideas into functional, scalable, and useful
+  products. I'm always drawn to new challenges and innovations
+  that push the boundaries of technology.
+
+$ my role  (hardware)
   ├── Computer Engineer
   ├── AI Engineer
-  └── Embedded Intelligence Builder
+  └── Embedded AI
 
-$ my side role
-  └── Web Developer
+$ my role  (software)
+  ├── Web Developer
+  ├── App Developer
+  └── End-to-End Builder
 
-$ my main skill
-  ├── Python           
-  ├── C++              
-  ├── C               
+$ my skill  (hardware)
+  ├── Python
+  ├── C++
+  ├── C
   └── Electronic Assembly
 
-$ my side skill       
-  ├── Database Management            
-  ├── HTML5
-  ├── CSS3
-  ├── Tailwind CSS
-  ├── Java Script
-  ├── Type Script
+$ my skill  (software)
+  ├── JavaScript
+  ├── TypeScript
+  ├── Dart
   ├── React
   ├── Next
   ├── Vite
-  └── Node.js
+  ├── Node
+  ├── Hono
+  ├── Express
+  ├── Flutter
+  ├── HTML5
+  ├── CSS3
+  ├── Tailwind CSS
+  └── Database Management (SQL)
 
 $ my tools
-  ├── Arduino             
-  ├── VS Code              
-  ├── MATLAB               
-  └── My SQL
-  
+  ├── Arduino
+  ├── VS Code
+  ├── MATLAB
+  └── MySQL
+
 $ my principle
-  "always try to be better"
+  "1.0001 is better than 1"
 
 $ status
-  > Currently building Website for a portofolio
+  > Available for hybrid work
   > Open to collaboration & new ideas
 ```
 
@@ -111,19 +135,27 @@ $ status
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="C" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="C" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="C" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="C" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="C" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" height="48" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="C" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" height="48" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="48" /></a>
 &nbsp;&nbsp;
 
 <br/>
@@ -140,7 +172,7 @@ $ status
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="My SQL" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="48" /></a>
 &nbsp;&nbsp;
 
 <br/>
