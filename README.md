@@ -171,7 +171,7 @@ $ status
 &nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" height="48" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="48" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" height="48" /></a>
 &nbsp;&nbsp;
 
 <br/>
