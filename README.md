@@ -26,8 +26,8 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+AI" alt="Roles" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+App+Developer+%7C+End-to-End+Builder" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+AI" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+App+Developer+%7C+End-to-End+Builder" alt="Roles" />
 </p>
 
 <br/>
