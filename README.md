@@ -1,27 +1,24 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                     ANIMATED HEADER                       -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
-
-
-<br/>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=8000&color=AAAAAA&center=true&vCenter=true&width=500&lines=INITIALIZING+SYSTEM...;)](https://git.io/typing-svg)
 
 <br/>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=6000&color=AAAAAA&center=true&vCenter=true&width=500&lines=ALL+SYSTEMS+OPERATIONAL...)](https://git.io/typing-svg)
 
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=6000&pause=4000&color=AAAAAA&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+SITE...;)](https://git.io/typing-svg)
+
+<br/>
+
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                   NAME & ROLE SECTION                     -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <h1>
@@ -44,19 +41,17 @@
 <br/>
 
 <!-- Divider -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                    ABOUT ME — TERMINAL                    -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 </div>
 
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                      MF SYSTEM PROFILE                       │
 └──────────────────────────────────────────────────────────────┘
@@ -114,85 +109,83 @@ $ my principle
 $ status
   > Available for work
   > Open to collaboration & new ideas
+```
 
 <div align="center">
 
 <br/>
 
 <!-- Divider -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-{ SKILLS }
+### `{ SKILLS }`
 
 <br/>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="48" /></a>
-  
+&nbsp;&nbsp;
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-{ TOOLS }
+
+### `{ TOOLS }`
 
 <br/>
 
 <a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" height="48" /></a>
-  
+&nbsp;&nbsp;
 <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" height="48" /></a>
-  
+&nbsp;&nbsp;
 
 <br/>
 
 <!-- Divider -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                   GITHUB STATS SECTION                    -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
-{ GITHUB STATS }
+### `{ GITHUB STATS }`
 
 <br/>
 
@@ -211,38 +204,34 @@ $ status
 <br/>
 
 <!-- Divider -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--              PINNED PROJECT BRIDGE SECTION                 -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
-{ PROJECTS }
+### `{ PROJECTS }`
 
 <br/>
 
+```
   ┌─────────────────────────────────────────────────┐
   │  Explore my pinned repositories below ↓         │
   │  Each project represents a chapter of my work.  │
   └─────────────────────────────────────────────────┘
+```
 
 <br/>
 
 <!-- Divider -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                    QUOTE / MOTTO                          -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <br/>
@@ -255,18 +244,15 @@ $ status
 <br/>
 
 <!-- Divider -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                   SOCIAL MEDIA SECTION                    -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
-{ CONNECT }
+### `{ CONNECT }`
 
 <br/>
 
@@ -289,9 +275,7 @@ $ status
 <br/><br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                    KNOW MORE ABOUT ME                      -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <table align="center">
@@ -307,9 +291,7 @@ $ status
 <br/><br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <!--                       PROFILE VIEWS                       -->
-
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadFaza-DU&color=555555&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -317,9 +299,8 @@ $ status
 <br/><br/>
 
 <!-- Footer -->
-
 <sub><sup>
-Crafted with precision — Muhammad Faza © 2025
+  Crafted with precision — Muhammad Faza © 2025
 </sup></sub>
 
 <br/>
