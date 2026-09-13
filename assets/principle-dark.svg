@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">1.0001 is better than 1 — Muhammad Faza</title><desc id="desc">A principle of continuous improvement, with an animated emerald signal and ascending bars.</desc>
+<style>
+text { font-family: 'Segoe UI', Arial, sans-serif; }
+.mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+.flow { stroke-dasharray: 12 210; animation: flow 6s linear infinite; }
+.reverse { animation-direction: reverse; }
+.pulse { animation: pulse 3s ease-in-out infinite; }
+.ring { transform-box: fill-box; transform-origin: center; animation: ring 7s linear infinite; }
+.scan { animation: scan 5s ease-in-out infinite; }
+.boot { opacity: 0; animation: boot 15s linear infinite; }
+.boot-a { opacity: 1; } .boot-b { animation-delay: -10s; } .boot-c { animation-delay: -5s; }
+@keyframes flow { to { stroke-dashoffset: -444; } }
+@keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+@keyframes ring { to { transform: rotate(360deg); } }
+@keyframes scan { 0%,100% { transform: translateY(-36px); opacity: 0; } 20%,80% { opacity: .8; } 50% { transform: translateY(36px); } }
+@keyframes boot { 0%,27% { opacity: 1; } 33%,100% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+ .flow,.pulse,.ring,.scan,.boot { animation: none !important; }
+ .flow { stroke-dasharray: none; opacity: .3; } .scan,.boot-b,.boot-c { display: none; } .boot-a { opacity: 1; }
+}
+</style>
+<rect x=".5" y=".5" width="899" height="209" rx="16" fill="#111D20" stroke="#223B39"/><text x="32" y="42" font-size="13" font-weight="600" fill="#34D399" class="mono" letter-spacing="2">THE PRINCIPLE</text><text x="30" y="111" font-size="43" font-weight="650" fill="#F0F6FC" letter-spacing="-1">1.0001 is better than 1</text><text x="32" y="149" font-size="16" font-weight="400" fill="#9BACB5" >Muhammad Faza</text><path d="M 33 178 H 866" stroke="#223B39"/><path d="M 33 178 H 866" class="flow" stroke="#34D399" stroke-width="2"/><rect x="751" y="134" width="9" height="19" rx="3" fill="#34D399" opacity="0.15" class="pulse" style="animation-delay:-0.0s"/><rect x="772" y="116" width="9" height="37" rx="3" fill="#34D399" opacity="0.3" class="pulse" style="animation-delay:-0.5s"/><rect x="793" y="98" width="9" height="55" rx="3" fill="#34D399" opacity="0.44999999999999996" class="pulse" style="animation-delay:-1.0s"/><rect x="814" y="80" width="9" height="73" rx="3" fill="#34D399" opacity="0.6" class="pulse" style="animation-delay:-1.5s"/><rect x="835" y="62" width="9" height="91" rx="3" fill="#34D399" opacity="0.75" class="pulse" style="animation-delay:-2.0s"/>
+</svg>
