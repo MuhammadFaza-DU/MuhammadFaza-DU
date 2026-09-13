@@ -1,121 +1,327 @@
-<!-- Custom circuit artwork lives in assets/. All biographical content is also readable as text. -->
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-dark-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/hero-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-  <img src="./assets/hero-light.svg" alt="Muhammad Faza (MF) — Computer Engineer. AI, software, and embedded systems." width="100%" />
-</picture>
+<div align="center">
 
-<h1 align="center">Engineering across hardware &amp; software.</h1>
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <strong>Computer Engineer</strong><br />
-  AI Engineer · Embedded AI · Web Developer · App Developer · End-to-End Builder
+<!--                     ANIMATED HEADER                       -->
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+
+
+<br/>
+
+
+
+<br/>
+
+
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<!--                   NAME & ROLE SECTION                     -->
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=8000&pause=2000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Muhammad+Faza" alt="Muhammad Faza" />
+</h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Engineer+%7C+Embedded+AI" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=10000&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+App+Developer+%7C+End-to-End+Builder" alt="Roles" />
 </p>
 
-<p align="center">
-  <a href="https://muhammadfaza.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-%E2%86%97-047857?style=for-the-badge&amp;labelColor=064E3B" alt="Explore my portfolio" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <strong>Available for work</strong> · Open to collaboration &amp; new ideas<br />
-  <sub>ENV: Hybrid — expertise spanning hardware &amp; software</sub>
-</p>
+<img src="https://img.shields.io/badge/ENV-Hybrid-111111?style=for-the-badge&labelColor=111111&color=333333" alt="Env: Hybrid" />
+&nbsp;
+<img src="https://img.shields.io/badge/EXPERTISE-Hardware%20%26%20Software-111111?style=for-the-badge&labelColor=111111&color=333333" alt="Expertise: Hardware & Software" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Available-111111?style=for-the-badge&labelColor=111111&color=00c896" alt="Status: Available" />
 
-<img src="./assets/circuit-divider.svg" width="100%" height="30" alt="" />
+<br/>
 
-## 01 / Profile
+<!-- Divider -->
 
-I'm **Muhammad Faza (MF)**, a Computer Engineer connecting **AI, software, and embedded systems** to solve real-world problems.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-My experience spans AI engineering, web development, and app development. I turn ideas into functional, scalable, and useful products, bringing hardware and software together from concept to implementation. I'm drawn to new challenges and innovations that push the boundaries of technology.
+<br/>
 
-<img src="./assets/circuit-divider.svg" width="100%" height="30" alt="" />
+<!-- ══════════════════════════════════════════════════════════ -->
 
-## 02 / Skills
+<!--                    ABOUT ME — TERMINAL                    -->
 
-### Hardware & embedded systems
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<p><code>Python</code> <code>C++</code> <code>C</code> <code>Electronic Assembly</code></p>
+</div>
 
-### Web & application development
+┌──────────────────────────────────────────────────────────────┐
+│                      MF SYSTEM PROFILE                       │
+└──────────────────────────────────────────────────────────────┘
 
-**Languages**<br />
-<code>JavaScript</code> <code>TypeScript</code> <code>Dart</code>
+$ who am i?
+  Muhammad Faza (MF)
 
-**Frameworks & build tools**<br />
-<code>React</code> <code>Next.js</code> <code>Vite</code> <code>Flutter</code>
+$ summary
+  I build technology that connects AI, software, and embedded
+  systems into real-world solutions. With experience in AI
+  engineering, web development, and app development, I enjoy
+  transforming ideas into functional, scalable, and useful
+  products. I'm always drawn to new challenges and innovations
+  that push the boundaries of technology.
 
-**Interface development**<br />
-<code>HTML5</code> <code>CSS3</code> <code>Tailwind CSS</code>
+$ my role
+  ├── Computer Engineer
+  ├── AI Engineer
+  ├── Embedded AI
+  ├── Web Developer
+  ├── App Developer
+  └── End-to-End Builder
 
-### Backend & databases
+$ my hardware skills
+  ├── Python
+  ├── C++
+  ├── C
+  └── Electronic Assembly
 
-**Runtime & frameworks**<br />
-<code>Node.js</code> <code>Hono</code> <code>Express</code>
+$ my software skills
+  ├── JavaScript
+  ├── TypeScript
+  ├── Dart
+  ├── React
+  ├── Next
+  ├── Vite
+  ├── Node
+  ├── Hono
+  ├── Express
+  ├── Flutter
+  ├── HTML5
+  ├── CSS3
+  ├── Tailwind CSS
+  └── Database Management (SQL)
 
-**Data**<br />
-<code>Database Management (SQL)</code> <code>MySQL</code>
+$ my tools
+  ├── Arduino
+  ├── VS Code
+  ├── MATLAB
+  └── MySQL
 
-### Tools
+$ my principle
+  "1.0001 is better than 1"
 
-<p><code>Arduino</code> <code>VS Code</code> <code>MATLAB</code> <code>MySQL</code></p>
+$ status
+  > Available for work
+  > Open to collaboration & new ideas
 
-<img src="./assets/circuit-divider.svg" width="100%" height="30" alt="" />
+<div align="center">
 
-## 03 / Projects
+<br/>
 
-**Explore my pinned repositories below this README.** ↓<br />
-Each project represents a chapter of my work.
+<!-- Divider -->
 
-For a closer look at my work and background, [**explore my portfolio ↗**](https://muhammadfaza.vercel.app/).
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="./assets/circuit-divider.svg" width="100%" height="30" alt="" />
+<br/>
 
-## 04 / GitHub activity
+{ SKILLS }
+
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="48" /></a>
+  
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+{ TOOLS }
+
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="MATLAB" height="48" /></a>
+  
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" height="48" /></a>
+  
+
+<br/>
+
+<!-- Divider -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<!--                   GITHUB STATS SECTION                    -->
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+{ GITHUB STATS }
+
+<br/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFaza-DU&theme=react-dark&bg_color=0d1117&color=AAAAAA&line=00ff00&point=ffffff&area=true&hide_border=false" width="800" alt="GitHub Contribution Graph" font = "times" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadFaza-DU&show_icons=true&theme=react&hide_border=false&title_color=AAAAAA&icon_color=f1c40f&text_color=aaaaaa&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="195" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadFaza-DU&theme=react&hide_border=false&title_color=AAAAAA&text_color=aaaaaa&bg_color=0d1117&layout=donut" height="195" alt="Top Languages" />
+
+<br/>
+<br/>
+
+<!-- Divider -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<!--              PINNED PROJECT BRIDGE SECTION                 -->
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+{ PROJECTS }
+
+<br/>
+
+  ┌─────────────────────────────────────────────────┐
+  │  Explore my pinned repositories below ↓         │
+  │  Each project represents a chapter of my work.  │
+  └─────────────────────────────────────────────────┘
+
+<br/>
+
+<!-- Divider -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<!--                    QUOTE / MOTTO                          -->
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFaza-DU&amp;name=Muhammad%20Faza&amp;bg_color=0D1117&amp;text_color=B6C6C0&amp;title_color=34D399&amp;chart_color=34D399&amp;border_color=0D1117" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFaza-DU&amp;name=Muhammad%20Faza&amp;bg_color=FFFFFF&amp;text_color=3D5C51&amp;title_color=047857&amp;chart_color=047857&amp;border_color=FFFFFF" alt="GitHub contribution activity for MuhammadFaza-DU" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&duration=4000&pause=99999&color=555555&center=true&vCenter=true&width=700&lines=%221.0001+is+better+than+1%22+%E2%80%94+Muhammad+Faza" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&duration=4000&pause=99999&color=555555&center=true&vCenter=true&width=700&lines=%221.0001+is+better+than+1%22+%E2%80%94+Muhammad+Faza" />
 </picture>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=MuhammadFaza-DU&amp;show_icons=true&amp;hide_border=true&amp;title_color=34D399&amp;icon_color=34D399&amp;text_color=B6C6C0&amp;bg_color=0D1117&amp;rank_icon=github&amp;include_all_commits=true&amp;border_radius=8" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadFaza-DU&amp;show_icons=true&amp;hide_border=true&amp;title_color=047857&amp;icon_color=047857&amp;text_color=3D5C51&amp;bg_color=FFFFFF&amp;rank_icon=github&amp;include_all_commits=true&amp;border_radius=8" alt="GitHub statistics for MuhammadFaza-DU" width="440" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadFaza-DU&amp;hide_border=true&amp;title_color=34D399&amp;text_color=B6C6C0&amp;bg_color=0D1117&amp;layout=donut&amp;border_radius=8" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadFaza-DU&amp;hide_border=true&amp;title_color=047857&amp;text_color=3D5C51&amp;bg_color=FFFFFF&amp;layout=donut&amp;border_radius=8" alt="Most used languages in public repositories" width="320" />
-</picture>
-</p>
+<br/>
 
-<p align="center"><sub><a href="https://github.com/MuhammadFaza-DU?tab=repositories">Browse repositories</a> · <a href="https://github.com/MuhammadFaza-DU?tab=overview">View contribution activity</a></sub></p>
+<!-- Divider -->
 
-<img src="./assets/circuit-divider.svg" width="100%" height="30" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 05 / Principle
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/principle-dark.svg" />
-  <img src="./assets/principle-light.svg" alt="“1.0001 is better than 1” — Muhammad Faza" width="100%" />
-</picture>
+<!-- ══════════════════════════════════════════════════════════ -->
 
-> “1.0001 is better than 1” — Muhammad Faza
+<!--                   SOCIAL MEDIA SECTION                    -->
 
-<img src="./assets/circuit-divider.svg" width="100%" height="30" alt="" />
+<!-- ══════════════════════════════════════════════════════════ -->
 
-## 06 / Connect
+{ CONNECT }
 
-I'm available for work and open to collaboration and new ideas.
+<br/>
 
-**[Explore my portfolio ↗](https://muhammadfaza.vercel.app/)** — get to know my work and background.
+<a href="https://www.instagram.com/mfaz.aa?igsh=MWVlMDdrbDVjZzhjYg==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=111111&labelColor=111111" alt="Instagram" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@MuhammadFaza-justone" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=111111&labelColor=111111" alt="YouTube" />
+</a>
+&nbsp;
+<a href="https://www.tiktok.com/@mfaz.aa?is_from_webapp=1&sender_device=pc" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white&color=111111&labelColor=111111" alt="TikTok" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/m-faza-443479372/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=111111&labelColor=111111" alt="LinkedIn" />
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/m-faza-443479372/) · [Instagram](https://www.instagram.com/mfaz.aa?igsh=MWVlMDdrbDVjZzhjYg==) · [YouTube](https://www.youtube.com/@MuhammadFaza-justone) · [TikTok](https://www.tiktok.com/@mfaz.aa?is_from_webapp=1&sender_device=pc)
+<br/><br/>
 
-<img src="./assets/circuit-divider.svg" width="100%" height="30" alt="" />
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadFaza-DU&amp;color=047857&amp;style=flat&amp;label=PROFILE+VIEWS" alt="Profile views" /><br />
-  <sub>Crafted with precision — Muhammad Faza © 2025</sub>
-</p>
+<!--                    KNOW MORE ABOUT ME                      -->
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 30px; border: 1px solid #333333; border-radius: 10px;">
+      <a href="https://muhammadfaza.vercel.app/" target="_blank">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Need+Know+More+About+Me%3F;Klik+Here" alt="Need Know More About Me" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<!--                       PROFILE VIEWS                       -->
+
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img src="https://komarev.com/ghpvc/?username=MuhammadFaza-DU&color=555555&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
+
+<!-- Footer -->
+
+<sub><sup>
+Crafted with precision — Muhammad Faza © 2025
+</sup></sub>
+
+<br/>
+
+</div>
