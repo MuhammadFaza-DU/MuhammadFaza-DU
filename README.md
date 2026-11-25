@@ -194,8 +194,8 @@ $ status
 <details open>
   <summary>Contribution Pac-Man (collapse to hide animation)</summary>
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/refs/heads/snake-output/contribution-pacman-dark.svg#still" />
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/refs/heads/snake-output/contribution-pacman.svg#still" />
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/refs/heads/snake-output/contribution-pacman-still-dark.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/refs/heads/snake-output/contribution-pacman-still.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/refs/heads/snake-output/contribution-pacman-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/refs/heads/snake-output/contribution-pacman.svg" />
     <img src="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/refs/heads/snake-output/contribution-pacman.svg" width="1186" alt="Pac-Man on Muhammad Faza's public GitHub contribution calendar" />
