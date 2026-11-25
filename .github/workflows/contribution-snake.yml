@@ -1,4 +1,4 @@
-name: Update contribution snake
+name: Update contribution Pac-Man
 
 on:
   schedule:
@@ -19,32 +19,30 @@ jobs:
     permissions:
       contents: read
     steps:
-      - name: Generate light and dark snakes
-        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+      - name: Check out the profile renderer
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
-          github_user_name: MuhammadFaza-DU
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23216e39
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%233fb950
+          persist-credentials: false
 
-      - name: Respect reduced motion
-        uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd
+      - name: Set up Node.js
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1
         with:
-          script: |
-            const fs = require('node:fs/promises');
-            for (const name of ['github-contribution-grid-snake.svg', 'github-contribution-grid-snake-dark.svg']) {
-              const file = `dist/${name}`;
-              const svg = await fs.readFile(file, 'utf8');
-              if (!svg.includes('</style>')) throw new Error('Generator produced no CSS');
-              const reduced = '@media(prefers-reduced-motion:reduce){*{animation:none!important}}';
-              await fs.writeFile(file, svg.replace('</style>', `${reduced}</style>`));
-            }
+          node-version: '24'
+          package-manager-cache: false
+
+      - name: Test the renderer
+        run: node --test scripts/contribution-pacman.test.mjs
+
+      - name: Generate light and dark Pac-Man SVGs
+        run: node scripts/contribution-pacman.mjs dist
 
       - name: Upload generated SVGs
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
         with:
-          name: contribution-snake
-          path: dist/*.svg
+          name: contribution-pacman
+          path: |
+            dist/contribution-pacman.svg
+            dist/contribution-pacman-dark.svg
           if-no-files-found: error
           retention-days: 1
 
@@ -56,9 +54,9 @@ jobs:
       contents: write
     steps:
       - name: Download generated SVGs
-        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333
         with:
-          name: contribution-snake
+          name: contribution-pacman
           path: dist
 
       - name: Publish SVGs without rewriting history
@@ -66,7 +64,7 @@ jobs:
         with:
           script: |
             const fs = require('node:fs/promises');
-            const names = ['github-contribution-grid-snake.svg', 'github-contribution-grid-snake-dark.svg'];
+            const names = ['contribution-pacman.svg', 'contribution-pacman-dark.svg'];
             const files = await fs.readdir('dist');
             if (files.length !== names.length || files.some(name => !names.includes(name))) {
               throw new Error('Unexpected artifact files');
@@ -80,8 +78,9 @@ jobs:
               }
               const svg = await fs.readFile(file, 'utf8');
               if (!svg.startsWith('<svg ') || !svg.trimEnd().endsWith('</svg>') ||
-                  !svg.includes('@keyframes') ||
-                  /<script\b|<foreignObject\b|<!DOCTYPE|\bon\w+\s*=|\b(?:href|src)\s*=/i.test(svg)) {
+                  !svg.includes('prefers-reduced-motion: reduce') ||
+                  !svg.includes('id="cell370"') ||
+                  /<script\b|<foreignObject\b|<!DOCTYPE|<\?|\bon\w+\s*=|\b(?:href|src)\s*=|@import|url\s*\(/i.test(svg)) {
                 throw new Error('Invalid generated SVG');
               }
               contents.push(svg);
@@ -110,14 +109,14 @@ jobs:
             }
             if (parent && entries.every(entry => existing.some(old =>
                 old.path === entry.path && old.sha === entry.sha && old.mode === entry.mode))) {
-              core.info('Contribution snake unchanged; no commit needed.');
+              core.info('Contribution Pac-Man unchanged; no commit needed.');
               return;
             }
             const tree = await github.rest.git.createTree({
               ...repo, ...(baseTree ? { base_tree: baseTree } : {}), tree: entries
             });
             const commit = await github.rest.git.createCommit({
-              ...repo, message: 'Update contribution snake',
+              ...repo, message: 'Update contribution Pac-Man',
               tree: tree.data.sha, parents: parent ? [parent] : []
             });
             if (parent) {
