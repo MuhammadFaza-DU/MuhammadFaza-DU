@@ -167,6 +167,7 @@ export function renderCalendar(rows, theme) {
   const position = cell => `transform:translate(${point(cell).map(n => `${n}px`).join(',')})`;
   const styles = [
     '@media(prefers-reduced-motion: reduce){.actor{display:none!important}.actor,.actor *,.pellet{animation:none!important}}',
+    ':root:target .actor{display:none!important}:root:target .actor,:root:target .actor *,:root:target .pellet{animation:none!important}',
   ];
   if (animated) {
     routes.forEach((route, i) => {
@@ -209,7 +210,7 @@ export function renderCalendar(rows, theme) {
         '<circle cx="-2.4" cy="-0.7" r="1" fill="#172554"/><circle cx="3.6" cy="-0.7" r="1" fill="#172554"/>';
     return `<g class="actor" id="actor${i}" transform="translate(${x} ${y})">${sprite}</g>`;
   }).join('') : '';
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">` +
+  return `<svg id="still" xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">` +
     '<desc>Pac-Man on Muhammad Faza’s public GitHub contribution calendar.</desc>' +
     `<style>${styles.join('\n')}</style><rect width="${width}" height="${height}" fill="${palette.board}"/>` +
     monthLabels(rows, palette.text) + cells +

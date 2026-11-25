@@ -92,3 +92,10 @@ test('future days are blank, not styled as actual zero-contribution days', () =>
   assert.match(svg, /id="cell370"[^>]+fill="none"/);
   assert.match(svg, /id="cell0"[^>]+fill="#161b22"/);
 });
+
+test('embedded images can select a static board without relying on SVG media inheritance', () => {
+  const svg = renderCalendar(days(i => i === 2 ? 1 : 0), 'dark');
+  assert.match(svg, /^<svg\b[^>]*\bid="still"/);
+  assert.match(svg, /:root:target \.actor\{display:none!important\}/);
+  assert.match(svg, /:root:target \.pellet\{animation:none!important\}/);
+});
