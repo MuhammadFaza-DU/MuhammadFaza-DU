@@ -43,6 +43,8 @@ jobs:
           path: |
             dist/contribution-pacman.svg
             dist/contribution-pacman-dark.svg
+            dist/contribution-pacman-still.svg
+            dist/contribution-pacman-still-dark.svg
           if-no-files-found: error
           retention-days: 1
 
@@ -64,7 +66,10 @@ jobs:
         with:
           script: |
             const fs = require('node:fs/promises');
-            const names = ['contribution-pacman.svg', 'contribution-pacman-dark.svg'];
+            const names = [
+              'contribution-pacman.svg', 'contribution-pacman-dark.svg',
+              'contribution-pacman-still.svg', 'contribution-pacman-still-dark.svg'
+            ];
             const files = await fs.readdir('dist');
             if (files.length !== names.length || files.some(name => !names.includes(name))) {
               throw new Error('Unexpected artifact files');
@@ -80,6 +85,7 @@ jobs:
               if (!svg.startsWith('<svg ') || !svg.trimEnd().endsWith('</svg>') ||
                   !svg.includes('prefers-reduced-motion: reduce') ||
                   !svg.includes('id="cell370"') ||
+                  (name.includes('-still') && /@keyframes|class="actor"/.test(svg)) ||
                   /<script\b|<foreignObject\b|<!DOCTYPE|<\?|\bon\w+\s*=|\b(?:href|src)\s*=|@import|url\s*\(/i.test(svg)) {
                 throw new Error('Invalid generated SVG');
               }

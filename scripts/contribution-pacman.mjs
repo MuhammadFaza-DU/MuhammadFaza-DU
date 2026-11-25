@@ -154,14 +154,15 @@ function monthLabels(rows, color) {
     labels.map(({ label, x, anchor }) => `<text x="${x}" y="21" data-column-x="${anchor}">${label}</text>`).join('') + '</g>';
 }
 
-export function renderCalendar(rows, theme) {
+export function renderCalendar(rows, theme, { still = false } = {}) {
   if (theme !== 'light' && theme !== 'dark') throw new Error('Unknown theme');
   const palette = PALETTES[theme], maze = createMaze(WIDTH);
-  const { routes, eaten } = simulate(rows, maze);
+  if (still) validateCalendar(rows);
+  const { routes, eaten } = still ? { routes: [], eaten: new Map() } : simulate(rows, maze);
   const animated = eaten.size > 0;
   const width = LEFT * 2 + WIDTH * TILE, height = TOP + HEIGHT * TILE + 10;
   const point = cell => [LEFT + (cell % WIDTH + 0.5) * TILE, TOP + (Math.floor(cell / WIDTH) + 0.5) * TILE];
-  const end = Math.max(1, routes[0].length - 1);
+  const end = Math.max(1, (routes[0]?.length ?? 0) - 1);
   const duration = Math.max(3000, end * 175 + 2000);
   const time = index => ((450 + index * 175) / duration * 100).toFixed(5);
   const position = cell => `transform:translate(${point(cell).map(n => `${n}px`).join(',')})`;
@@ -227,10 +228,14 @@ async function main() {
   const age = (Date.now() - Date.parse(`${rows.at(-1).date}T00:00:00Z`)) / DAY;
   if (age < -1 || age > 3) throw new Error('Public calendar appears stale');
   const light = renderCalendar(rows, 'light'), dark = renderCalendar(rows, 'dark');
+  const lightStill = renderCalendar(rows, 'light', { still: true });
+  const darkStill = renderCalendar(rows, 'dark', { still: true });
   await mkdir(target, { recursive: true });
   await Promise.all([
     writeFile(`${target}/contribution-pacman.svg`, light),
     writeFile(`${target}/contribution-pacman-dark.svg`, dark),
+    writeFile(`${target}/contribution-pacman-still.svg`, lightStill),
+    writeFile(`${target}/contribution-pacman-still-dark.svg`, darkStill),
   ]);
   console.log(`Rendered ${rows.length} public calendar days (${rows[0].date} to ${rows.at(-1).date}).`);
 }

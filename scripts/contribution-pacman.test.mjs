@@ -99,3 +99,9 @@ test('embedded images can select a static board without relying on SVG media inh
   assert.match(svg, /:root:target \.actor\{display:none!important\}/);
   assert.match(svg, /:root:target \.pellet\{animation:none!important\}/);
 });
+
+test('separate still assets contain every actual tile color but no actor or keyframe', () => {
+  const svg = renderCalendar(days(i => i === 2 ? 1 : 0), 'dark', { still: true });
+  assert.doesNotMatch(svg, /@keyframes|id="actor0"/);
+  assert.match(svg, /id="cell106"[^>]+fill="#0e4429"/);
+});
