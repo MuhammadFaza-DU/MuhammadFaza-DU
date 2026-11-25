@@ -192,11 +192,11 @@ $ status
 <br/>
 
 <details open>
-  <summary>Contribution snake (collapse to hide animation)</summary>
+  <summary>Contribution Pac-Man (collapse to hide animation)</summary>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/snake-output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/snake-output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/snake-output/github-contribution-grid-snake.svg" width="880" alt="Animated snake following Muhammad Faza's GitHub contribution grid" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/snake-output/contribution-pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/snake-output/contribution-pacman.svg" />
+    <img src="https://raw.githubusercontent.com/MuhammadFaza-DU/MuhammadFaza-DU/snake-output/contribution-pacman.svg" width="1186" alt="Pac-Man on Muhammad Faza's public GitHub contribution calendar" />
   </picture>
 </details>
 
@@ -288,9 +288,8 @@ $ status
 <table align="center">
   <tr>
     <td align="center" style="padding: 30px; border: 1px solid #333333; border-radius: 10px;">
-      <a href="https://mfazaa.my.id/" target="_blank" rel="noopener noreferrer">
-        <strong>Visit my portfolio</strong><br/>
-        mfazaa.my.id
+      <a href="https://mfazaa.my.id/" target="_blank">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Need+Know+More+About+Me%3F;Klik+Here" alt="Need Know More About Me" />
       </a>
     </td>
   </tr>
