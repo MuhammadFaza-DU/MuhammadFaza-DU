@@ -220,7 +220,8 @@ def build(weeks, snapshot=None):
 
     dur = f'dur="{D:.3f}s" repeatCount="indefinite"'
     if snapshot is None:
-        kt, vals = keyframes(pac.pts, D, lambda x, y: f"{x:.1f} {y:.1f}")
+        # Linear SVG keyTimes must end at 1; hold the final cell until the loop restarts.
+        kt, vals = keyframes([*pac.pts, (D, *pac.pts[-1][1:])], D, lambda x, y: f"{x:.1f} {y:.1f}")
         hk = [(0.0, heads[0][1])] + heads[1:] if heads[0][0] > 0 else list(heads)
         hk.append((D, hk[-1][1]))
         hkt, hv = keyframes(hk, D, lambda a: f"{a}")
