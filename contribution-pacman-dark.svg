@@ -438,7 +438,7 @@
 <rect x="1133" y="167" width="20" height="20" rx="4" fill="#0e4429"><animate attributeName="opacity" calcMode="discrete" dur="55.020s" repeatCount="indefinite" keyTimes="0;0.76227;0.98909;1" values="1;0;1;1"/></rect>
 <rect x="1155" y="79" width="20" height="20" rx="4" fill="#0e4429"><animate attributeName="opacity" calcMode="discrete" dur="55.020s" repeatCount="indefinite" keyTimes="0;0.80480;0.98909;1" values="1;0;1;1"/></rect>
 <rect x="1155" y="123" width="20" height="20" rx="4" fill="#006d32"><animate attributeName="opacity" calcMode="discrete" dur="55.020s" repeatCount="indefinite" keyTimes="0;0.78517;0.98909;1" values="1;0;1;1"/></rect>
-<rect x="1155" y="167" width="20" height="20" rx="4" fill="#0e4429"><animate attributeName="opacity" calcMode="discrete" dur="55.020s" repeatCount="indefinite" keyTimes="0;0.76554;0.98909;1" values="1;0;1;1"/></rect>
+<rect x="1155" y="167" width="20" height="20" rx="4" fill="#006d32"><animate attributeName="opacity" calcMode="discrete" dur="55.020s" repeatCount="indefinite" keyTimes="0;0.76554;0.98909;1" values="1;0;1;1"/></rect>
 <line x1="10" y1="100" x2="32" y2="100" stroke="#668cff" stroke-width="1.2"/>
 <line x1="10" y1="166" x2="32" y2="166" stroke="#668cff" stroke-width="1.2"/>
 <line x1="32" y1="100" x2="54" y2="100" stroke="#668cff" stroke-width="1.2"/>
